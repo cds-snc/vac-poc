@@ -63,7 +63,7 @@
     "lunr": "^2.3.8",
     "lunr-languages": "^1.4.0",
     "markdown-it": "^10.0.0",
-    "next": "^9.5.4",
+    "next": "^10.2.1",
     "next-redux-wrapper": "^3.0.0-alpha.2",
     "preact": "8.5.2",
     "prop-types": "^15.6.0",
@@ -84,7 +84,7 @@
     "reselect": "^4.0.0",
     "universal-cookie": "^4.0.3",
     "webpack": "^5.1.1",
-    "snyk": "^1.369.3"
+    "snyk": "^1.630.0"
   },
   "devDependencies": {
     "@babel/cli": "^7.8.4",

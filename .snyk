@@ -24,3 +24,9 @@ patch:
         patched: '2020-08-04T12:51:56.488Z'
     - next > @babel/preset-env > @babel/plugin-transform-exponentiation-operator > @babel/helper-builder-binary-assignment-operator-visitor > @babel/helper-explode-assignable-expression > @babel/traverse > @babel/helper-function-name > @babel/helper-get-function-arity > @babel/types > lodash:
         patched: '2020-08-04T12:51:56.488Z'
+    - next > @babel/core > lodash:
+        patched: '2021-06-15T19:21:16.618Z'
+    - next > @babel/core > @babel/traverse > lodash:
+        patched: '2021-06-15T19:21:16.618Z'
+    - next > @babel/core > @babel/traverse > @babel/helper-function-name > @babel/helper-get-function-arity > @babel/types > lodash:
+        patched: '2021-06-15T19:21:16.618Z'
